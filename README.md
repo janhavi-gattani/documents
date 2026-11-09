@@ -112,8 +112,8 @@ Follow these steps to set up and run the project locally on your machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/authority-dashboard.git
-cd authority-dashboard
+git clone https://github.com/janhavi-gattani/documents.git
+cd documents
 ```
 
 ### 2. Install Dependencies
